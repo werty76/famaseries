@@ -1,7 +1,36 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3QK1Iov" group-title="SHOWTIME", Fellow Travelers S01E01
-https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_5qeccbw927/Fellow+Travelers.S01E01.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf1
-#EXTINF:-1 tvg-logo="https://bit.ly/3QK1Iov" group-title="SHOWTIME", Fellow Travelers S01E02
-https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_v6rg7ed3yr/Fellow+Travelers.S01E02.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf1
-#EXTINF:-1 tvg-logo="https://bit.ly/3QK1Iov" group-title="SHOWTIME", Fellow Travelers S01E03
-https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_ca6xb8zczr/Fellow+Travelers.S01E03.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf1
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fellow Travelers S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QK1Iov</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_5qeccbw927/Fellow+Travelers.S01E01.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lfVx1vIkz4956ux7j38hG6D5nB.jpg</fanart>
+<info>Na Washington dos anos 1950, Hawkins Fuller é um herói de guerra que sobe na hierarquia do Departamento de Estado, flertando com mulheres enquanto desfruta de sexo clandestino com homens e evita complicações emocionais. Tudo muda quando Hawk conhece o religioso Tim Laughlin: eles iniciam um caso que os coloca em perigo. Em 1986, o casado Hawk recebe um pacote misterioso e decide que precisa ver Tim.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fellow Travelers S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QK1Iov</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_v6rg7ed3yr/Fellow+Travelers.S01E02.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf1</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lfVx1vIkz4956ux7j38hG6D5nB.jpg</fanart>
+<info>Quando o Departamento de Estado inicia investigações sobre supostos homossexuais, Hawk se distancia de Tim, que questiona sua fé. A colega de Hawk, Mary, fica sob suspeita. O jornalista Marcus perde o emprego após uma disputa com Roy Cohn, mas é consolado pelo artista drag Frankie. Precisando de cobertura, Hawk se aproxima de Lucy Smith. Na São Francisco dos anos 1980, Hawk observa a vida gay na crise da AIDS quando a irmã de Tim o proíbe de ver Tim.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fellow Travelers S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QK1Iov</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_ca6xb8zczr/Fellow+Travelers.S01E03.mp4?PHPSESSID=592ef90ceab8bef732275db65fbe2dc2208fbbf1</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lfVx1vIkz4956ux7j38hG6D5nB.jpg</fanart>
+<info>Hawk e Tim partem em uma viagem que azeda quando Tim percebe que Hawk está usando a viagem para desenterrar sujeira sobre os inimigos do senador Smith. O encontro de Marcus e Frankie com um segurança racista quase os separa. Roy está desesperado para impedir que David seja convocado e Jean Kerr questiona a masculinidade de McCarthy. Na São Francisco dos anos 80, Tim recusa o perdão até que uma emergência médica dá a Hawk a oportunidade de provar que é digno dele.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fellow Travelers S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QK1Iov</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-21_file_24eydzfnqx/Fellow+Travelers.S01E0.mp4?PHPSESSID=8484b1507c78ea2c3f1718e3110bea012b70d6b1</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lfVx1vIkz4956ux7j38hG6D5nB.jpg</fanart>
+<info>À medida que o expurgo governamental de homossexuais continua, Hawk enfrenta um teste de polígrafo sobre sua vida sexual e corteja publicamente Lucy enquanto envolve Tim em uma conspiração desesperada para destruir McCarthy e Cohn. Marcus faz as pazes com sua atração pela personalidade feminina de Frankie. David foi convocado e Roy ameaça destruir o Exército. Na década de 1980, em São Francisco, Hawk conhece o filho adotivo de Marcus e Frankie e Tim recruta Hawk para ajudar seu grupo de ativistas contra a AIDS.</info>
+</channel>
+
+</channels>
