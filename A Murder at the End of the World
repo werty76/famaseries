@@ -1,5 +1,28 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3uv7Byn" group-title="FX", A Murder at the End of the World S01E01
-https://fv5-2.failiem.lv/Files.fm_2023-11-18_file_xcft7gau5k/A.Murder.at.the.End.of.the.World.S01E01.mp4?PHPSESSID=b849d090745dea9c8b69cde43e2b67d6e3347f14
-#EXTINF:-1 tvg-logo="https://bit.ly/3uv7Byn" group-title="FX", A Murder at the End of the World S01E02
-https://fv5-2.failiem.lv/Files.fm_2023-11-18_file_gpd2bapkv8/A.Murder.at.the.End.of.the.World.S01E02.mp4?PHPSESSID=b849d090745dea9c8b69cde43e2b67d6e3347f14
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Murder at the End of the World S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3uv7Byn</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-11-18_file_xcft7gau5k/A.Murder.at.the.End.of.the.World.S01E01.mp4?PHPSESSID=b849d090745dea9c8b69cde43e2b67d6e3347f14</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/gViaj7PbM2LcBYmEfjeH6VnHpRO.jpg</fanart>
+<info>Um detetive amador recebe um convite misterioso para o retiro secreto de um bilionário recluso da tecnologia.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Murder at the End of the World S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3uv7Byn</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-11-18_file_gpd2bapkv8/A.Murder.at.the.End.of.the.World.S01E02.mp4?PHPSESSID=b849d090745dea9c8b69cde43e2b67d6e3347f14</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/gViaj7PbM2LcBYmEfjeH6VnHpRO.jpg</fanart>
+<info>Darby acredita que a morte que testemunhou pode, na verdade, ser assassinato, mas ninguém acredita nela. A dor e o choque dos acontecimentos levaram-na a recordar o seu próprio passado enterrado.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Murder at the End of the World S01E0[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3uv7Byn</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-22_file_qnkyh8ezsq/A.Murder.At.The.End.Of.The.World.S01E03.mp4?PHPSESSID=93c81aac9dfdeecb4ceece2d573fb11c56519713</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/gViaj7PbM2LcBYmEfjeH6VnHpRO.jpg</fanart>
+<info>Darby desempenha o papel de convidado perfeito para investigar secretamente o crime. Ela descobre que pode estar cada vez mais perto da verdade quando outra vida é tirada.</info>
+</channel>
+
+</channels>
