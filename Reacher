@@ -1,1 +1,24 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher 1º Temporada[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/1SwnhxBUaRxGKRmkLcTqnt4QcGg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Baseado em “Killing Floor”, quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma conspiração mortal cheia de policiais sujos, empresários duvidosos e políticos intrigantes. Com nada além de sua inteligência, ele deve descobrir o que está acontecendo em Margrave, na Geórgia.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher 1º Temporada[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime , Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Baseado em "Bad Luck and Trouble", quando membros da antiga unidade militar de Reacher começam a aparecer mortos, Reacher tem apenas uma coisa em mente: vingança.</info>
+</channel>
+
+</channels>
