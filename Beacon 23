@@ -1,9 +1,57 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Beacon 23 S01E01
-https://fv5-3.failiem.lv/Files.fm_2023-11-16_file_yekuzbngk7/Beacon.23.S01E01.mp4?PHPSESSID=fc2b15498f5825811321f986fce17904dba568c8
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Beacon 23 S01E02
-https://fv5-3.failiem.lv/Files.fm_2023-11-16_file_bdyd3v644n/Beacon.23.S01E02.mp4?PHPSESSID=fc2b15498f5825811321f986fce17904dba568c8
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Beacon 23 S01E03
-https://fv5-3.failiem.lv/Files.fm_2023-11-23_file_ejcsu59xa5/Beacon.23.S01E03.mp4?PHPSESSID=1a5b3080535e46f4fa9fee970a4286aad6ee461f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Beacon 23 S01E04
-https://fv5-4.failiem.lv/Files.fm_2023-11-23_file_nm4ytgsp34/Beacon.23.S01E04.mp4?PHPSESSID=91c004ac844a8da73e639cd0205da2ba6eb33578
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E01[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-16_file_yekuzbngk7/Beacon.23.S01E01.mp4?PHPSESSID=fc2b15498f5825811321f986fce17904dba568c8</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E02[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-16_file_bdyd3v644n/Beacon.23.S01E02.mp4?PHPSESSID=fc2b15498f5825811321f986fce17904dba568c8</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E03[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-23_file_ejcsu59xa5/Beacon.23.S01E03.mp4?PHPSESSID=1a5b3080535e46f4fa9fee970a4286aad6ee461f</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E04[/COLOR][/B]</title>
+<link>https://fv5-4.failiem.lv/Files.fm_2023-11-23_file_nm4ytgsp34/Beacon.23.S01E04.mp4?PHPSESSID=91c004ac844a8da73e639cd0205da2ba6eb33578</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E05[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E06[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Beacon 23 S01E07[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1sLgfZkzxfY8WWJlmoDMpxHOBcd.jpg</fanart>
+<info></info>
+</item>
+
