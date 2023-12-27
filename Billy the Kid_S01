@@ -1,17 +1,63 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E01
-https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_2pvekwv7ay/Billy.the.Kid.S01E01.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E02
-https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_zxnr3wjha4/Billy.the.Kid.S01E02.mp4?v=1700395783&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E03
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_cq4s5mvz8n/Billy.the.Kid.S01E03.mp4?v=1700395814&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E04
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_8jzx9d4fqy/Billy.the.Kid.S01E04.mp4?v=1700395864&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E05
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_snkr3h6cu9/Billy.the.Kid.S01E05.mp4?v=1700395922&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E06
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_h5w3cuun9g/Billy.the.Kid.S01E06.mp4?v=1700395981&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E07
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_488cn52thh/Billy.the.Kid.S01E07.mp4?v=1700396067&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/47HEUMX" group-title="MGM", Billy the Kid S01E08
-https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_9tb285287h/Billy.the.Kid.S01E08.mp4?v=1700396116&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E01[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_2pvekwv7ay/Billy.the.Kid.S01E01.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Estamos em 1871. Billy McCarty, de 12 anos, e sua família de imigrantes irlandeses precisam deixar Nova York e viajar para o oeste em busca de novas oportunidades. Mas a viagem é fatal para alguns.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E02[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_zxnr3wjha4/Billy.the.Kid.S01E02.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Kathleen e seus filhos Billy e Joe viajam para Santa Fé. A vida é difícil, mas ela conhece e se casa com um homem que pode mudar tudo para melhor – apenas para descobrir que ele torna tudo ainda pior.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E03[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_cq4s5mvz8n/Billy.the.Kid.S01E03.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Antrim, Kathleen e os dois meninos se mudam para Silver City, tentando começar uma nova vida, mas todos os seus sonhos são destruídos – e Billy perde tudo.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E04[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_8jzx9d4fqy/Billy.the.Kid.S01E04.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Billy encontra novos problemas quando se depara com um personagem chamado Alias. Ele mata um homem em legítima defesa e acaba fugindo, e depois nos braços de uma jovem — que também é namorada de Jesse Evans.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E05[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_snkr3h6cu9/Billy.the.Kid.S01E05.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Billy, novamente em movimento, acaba em Chihuahua, no México, com um novo amigo mexicano chamado Segura. Juntos, eles desfrutam de diversas aventuras arriscadas – mas no final, Billy corre o risco de perder a vida.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E06[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_h5w3cuun9g/Billy.the.Kid.S01E06.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Billy esbarra em um novo personagem chamado Pat Garrett, que está viajando com Jesse e a gangue dos 7 Rivers. Billy se junta a eles – mas os legisladores já estão se aproximando. Eles planejam fugir para o condado de Lincoln – mas não antes de Billy cumprir uma última promessa.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E07[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_488cn52thh/Billy.the.Kid.S01E07.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Billy vai até o condado de Lincoln para se juntar à gangue, que trabalha para o chefe mais poderoso de Lincoln, Major Murphy. Murphy quer que eles se livrem de seu novo concorrente, John Tunstall. Billy se vê dividido entre os dois rivais.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S01E08[/COLOR][/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_9tb285287h/Billy.the.Kid.S01E08.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/47HEUMX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1BxxXjJdDpXXDDA8bi0xnfGiz3.jpg</fanart>
+<info>Estamos às vésperas da Guerra do Condado de Lincoln. Jesse e sua turma são encorajados por Murphy a intensificar seus ataques contra os agricultores, em sua maioria mexicanos, que se inscreveram na Tunstall. É a gota d'água para Billy, e ele decide mudar de lado.</info>
+</item>
