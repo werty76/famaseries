@@ -1,7 +1,32 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Billy the Kid S02E01
-https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_z3wnjk6abg/Billy.the.Kid.S02E01.mp4?v=1700396168&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Billy the Kid S02E02
-https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_2nye6sz7c5/Billy.the.Kid.S02E02.mp4?v=1700396190&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM", Billy the Kid S02E03
-https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_ys3ubuxr94/Billy.the.Kid.S02E03.mp4?v=1700396270&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S02E01[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_z3wnjk6abg/Billy.the.Kid.S02E01.mp4?v=1700396168&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Ghl7Iu8dGSB0jRyEMAMdSTkgc4.jpg</fanart>
+<info>A Guerra do Condado de Lincoln está prestes a começar em grande estilo. Billy juntou-se ao inglês John Tunstall na sua batalha comercial com o Major Murphy e a Câmara, mas jogadores ainda maiores espreitam nos bastidores e as apostas são altas.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S02E02[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_2nye6sz7c5/Billy.the.Kid.S02E02.mp4?v=1700396190&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Ghl7Iu8dGSB0jRyEMAMdSTkgc4.jpg</fanart>
+<info>A guerra começou, mas John Tunstall é hospitalizado devido a um surto de varíola.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S02E03[/COLOR][/B]</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_ys3ubuxr94/Billy.the.Kid.S02E03.mp4?v=1700396270&PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Ghl7Iu8dGSB0jRyEMAMdSTkgc4.jpg</fanart>
+<info>Billy e os Reguladores ouvem a notícia de que o rancho de John Tunstall será invadido./info>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR white]Billy the Kid S02E04[/COLOR][/B]</title>
+<link>https://fv5-4.failiem.lv/Files.fm_2023-12-27_file_2y5app8vgd/Billy.the.Kid.S02E04.mp4?PHPSESSID=dc6cc25f5d2334c875a8613fad45eef7dcbe4fad</link>
+<thumbnail>https://bit.ly/3R6P9oX</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Ghl7Iu8dGSB0jRyEMAMdSTkgc4.jpg</fanart>
+<info>Os Reguladores estão na defensiva desde o início da guerra, mas Billy elabora um plano que pode pôr fim à guerra.</info>
+</item>
