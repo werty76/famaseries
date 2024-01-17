@@ -1,44 +1,12 @@
-<layouttype>thumbnail</layouttype>
+#EXTM3U size="medium"
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Waco: The Aftermath S01E01[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QOgWc6</thumbnail>
-<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_bye4wqps54/Waco.The.Aftermath.S01E01.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/gC8Pt4zMAxzkK5Crb8M2ixz3ytS.jpg</fanart>
-<info>Após o cerco mortal em Waco, o negociador do FBI Gary Noesner enfrenta acusações e sua própria culpa. Com as tensões nacionais aumentando, os sobreviventes do Ramo Davidiano chegam ao tribunal onde o julgamento está marcado para começar. Um flashback revela o momento em que o jovem Vernon Howell chega ao Monte Carmelo, antes de se tornar o infame David Koresh.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Waco: The Aftermath S01E02[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QOgWc6</thumbnail>
-<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_bvbrn2vr5v/Waco.The.Aftermath.S01E02.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/gC8Pt4zMAxzkK5Crb8M2ixz3ytS.jpg</fanart>
-<info>Os depoimentos no tribunal ficam acalorados à medida que ambos os lados discutem sobre quem atirou primeiro. Gary e Angie descobrem algumas informações intrigantes durante uma vigilância em um albergue da Nação Ariana. Vernon e Lois retornam da peregrinação e Vernon compartilha sua visão. Gary implora aos chefes do FBI que levem a sério a ameaça terrorista doméstica.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Waco: The Aftermath S01E03[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QOgWc6</thumbnail>
-<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_9mk4svufxa/Waco.The.Aftermath.S01E03.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/gC8Pt4zMAxzkK5Crb8M2ixz3ytS.jpg</fanart>
-<info>Cogdell conta à sua equipe sobre um estranho encontro e mais tarde se encontra com um homem que pode não ser tão louco quanto parece. Gary encontra uma pista que o leva a um confronto perturbador e mais tarde pede ajuda a uma fonte improvável. Vernon convida Livingstone para se juntar a ele no Texas, e mais tarde faz uma declaração com enorme repercussão.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Waco: The Aftermath S01E04[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QOgWc6</thumbnail>
-<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_nk7f8z3fht/Waco.The.Aftermath.S01E04.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/gC8Pt4zMAxzkK5Crb8M2ixz3ytS.jpg</fanart>
-<info>Carol se infiltra na cidade de Elohim, onde há uma tendência assustadora sobre uma guerra iminente. Cogdell tem múltiplas vitórias durante interrogatórios, mas não tem certeza se será suficiente. Carol luta para manter seu disfarce na Cidade Elohim. A batalha de Vernon pelo controle do Monte Carmelo toma um rumo perigoso.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Waco: The Aftermath S01E05[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QOgWc6</thumbnail>
-<externallink>https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_3t7ab9x7t2/Waco.The.Aftermath.S01E05.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/gC8Pt4zMAxzkK5Crb8M2ixz3ytS.jpg</fanart>
-<info>Gary se encontra sob um relógio, na esperança de evitar outro desastre. O destino do Ramo Davidiano é revelado no final do julgamento. Vernon retorna ao Monte Carmelo, agora o autoproclamado profeta, David Koresh. Final de Série.</info>
-</channel>
-
-</channels>
+#EXTINF:-1 tvg-logo="https://bit.ly/4beAikn" group-title="showtime", Waco: The Aftermath S01E01
+https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_bye4wqps54/Waco.The.Aftermath.S01E01.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010
+#EXTINF:-1 tvg-logo="https://bit.ly/4beAikn" group-title="showtime", Waco: The Aftermath S01E02
+https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_bvbrn2vr5v/Waco.The.Aftermath.S01E02.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010
+#EXTINF:-1 tvg-logo="https://bit.ly/4beAikn" group-title="showtime", Waco: The Aftermath S01E03
+https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_9mk4svufxa/Waco.The.Aftermath.S01E03.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010
+#EXTINF:-1 tvg-logo="https://bit.ly/4beAikn" group-title="showtime", Waco: The Aftermath S01E04
+https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_nk7f8z3fht/Waco.The.Aftermath.S01E04.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010
+#EXTINF:-1 tvg-logo="https://bit.ly/4beAikn" group-title="showtime", Waco: The Aftermath S01E05
+https://fv5-3.failiem.lv/Files.fm_2023-11-18_file_3t7ab9x7t2/Waco.The.Aftermath.S01E05.mp4?PHPSESSID=ff15eda54943e79f7963ff88112f58cd0d20d010
