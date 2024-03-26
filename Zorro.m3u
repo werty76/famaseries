@@ -1,22 +1,22 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E01
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E01
 https://cld.pt/dl/download/b190ce16-faa2-497d-94f3-748cdb9e6bd1/Zorro%20S01E01.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E02
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E02
 https://cld.pt/dl/download/ca6ab1ed-fa02-47da-a2c4-630f11d90085/Zorro%20S01E02.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E03
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E03
 https://cld.pt/dl/download/dfa71f36-929a-4520-a4c4-aa63122bd3d0/Zorro%20S01E03.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E04
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E04
 https://cld.pt/dl/download/3005b571-f7a9-4c59-ad56-e7d90a632350/Zorro%20S01E04.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E05
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E05
 https://cld.pt/dl/download/a7dda953-26e3-467d-a04f-3f794302718b/Zorro%20S01E05.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E06
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E06
 https://cld.pt/dl/download/975f1dfa-e47c-4e1c-9b59-8e4212dcf257/Zorro%20S01E06.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E07
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E07
 https://cld.pt/dl/download/d8e66a36-773a-4e76-a243-655922fe0099/Zorro%20S01E07.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E08
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E08
 https://cld.pt/dl/download/5973c147-7905-42dc-a6bb-1576e9a0efa3/Zorro%20S01E08.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E09
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E09
 https://cld.pt/dl/download/0923eff3-0888-40b9-80ce-99c8eec7d010/Zorro%20S01E09.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" group-title="PRIME VIDEO", Zorro S01E10
+#EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="VIDEO" group-title="PRIME VIDEO", Zorro S01E10
 https://cld.pt/dl/download/c01fbd85-3b68-457d-a3b8-68d3afaef36c/Zorro%20S01E10.mp4
