@@ -1,18 +1,18 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E01
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E01
 https://cld.pt/dl/download/afc98700-5c18-4c10-8374-fdab627559c6/Justified%20City%20Primeval.S01E01.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E02
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E02
 https://cld.pt/dl/download/b81f0311-531c-48d0-8f57-cea2aa1203c2/Justified%20City%20Primeval.S01E02.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E03
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E03
 https://cld.pt/dl/download/a08cfa04-03ee-4453-8df0-8a8b672cb27a/Justified%20City%20Primeval.S01E03.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E04
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E04
 https://cld.pt/dl/download/32572ae3-bbb4-4f98-aedb-aca8a6ab1a73/Justified%20City%20Primeval.S01E04.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E05
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E05
 https://cld.pt/dl/download/adb818a3-c108-42d6-b759-2fd69599e570/Justified%20City%20Primeval.S01E05.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E06
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E06
 https://cld.pt/dl/download/db04be7a-1d64-4d4d-aa35-819202317b20/Justified%20City%20Primeval.S01E06.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E07
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E07
 https://cld.pt/dl/download/7c6f166c-1013-43e5-b32f-7e34b2b6ab14/Justified%20City%20Primeval.S01E07.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" group-title="FX", Justified City Primeval S01E08
+#EXTINF:-1 tvg-logo="https://bit.ly/47xC3py" type="VIDEO" group-title="FX", Justified City Primeval S01E08
 https://cld.pt/dl/download/657145ac-f21a-4170-b0e4-99a699302667/Justified%20City%20Primeval.S01E08.mp4
