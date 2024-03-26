@@ -1,10 +1,10 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM+", Billy the Kid S02E01
+#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" type="VIDEO" group-title="MGM+", Billy the Kid S02E01
 https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_z3wnjk6abg/Billy.the.Kid.S02E01.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM+", Billy the Kid S02E02
+#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" type="VIDEO" group-title="MGM+", Billy the Kid S02E02
 https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_2nye6sz7c5/Billy.the.Kid.S02E02.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM+", Billy the Kid S02E03
+#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" type="VIDEO" group-title="MGM+", Billy the Kid S02E03
 https://fv5-3.failiem.lv/Files.fm_2023-11-15_file_ys3ubuxr94/Billy.the.Kid.S02E03.mp4?PHPSESSID=9a004ee5d03c449614e14325f92f67ec2c05983f
-#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" group-title="MGM+", Billy the Kid S02E04
+#EXTINF:-1 tvg-logo="https://bit.ly/3R6P9oX" type="VIDEO" group-title="MGM+", Billy the Kid S02E04
 https://fv5-4.failiem.lv/Files.fm_2023-12-27_file_2y5app8vgd/Billy.the.Kid.S02E04.mp4?PHPSESSID=dc6cc25f5d2334c875a8613fad45eef7dcbe4fad
