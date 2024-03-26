@@ -1,24 +1,25 @@
+
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E01
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E01
 https://fv5-2.failiem.lv/Files.fm_2023-11-18_file_qu5k2yjr2m/Monarch.Legacy.of.Monsters.S01E01.mp4?PHPSESSID=7173e09b73f90cb65444ed4b46ad43c719a24b6e
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E02
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E02
 https://fv5-2.failiem.lv/Files.fm_2024-01-16_file_qgbjyvfcun/Monarch.Legacy.of.Monsters.S01E02.mp4?PHPSESSID=d76f0be436a65b5d829c0b48c681ffdd1fbbe8ea
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E03
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E03
 https://fv5-3.failiem.lv/Files.fm_2023-11-23_file_he8jc4jadt/Monarch.Legacy.of.Monsters.S01E03.mp4?PHPSESSID=1d743a480f2f9bc11bf0221034ddcc7f7fb3b6c1
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E04
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E04
 https://fv5-3.failiem.lv/Files.fm_2023-11-23_file_quxj4md2pf/Monarch.Legacy.of.Monsters.S01E04.mp4?PHPSESSID=effbe2727d7a5babb0f96d04b3b4c5b3d3a8958e
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E05
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E05
 https://fv5-3.failiem.lv/Files.fm_2023-12-19_file_muduqxtq7t/Monarch.Legacy.of.Monsters.S01E05.mp4?PHPSESSID=630020e98f873555c3fd1aefe204d8697fc533b2
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E06
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E06
 https://fv5-3.failiem.lv/Files.fm_2023-12-19_file_8djkrv7ef3/Monarch.Legacy.of.Monsters.S01E06.mp4?PHPSESSID=630020e98f873555c3fd1aefe204d8697fc533b2
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E07
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E07
 https://fv5-4.failiem.lv/Files.fm_2023-12-27_file_e7bze9abyq/Monarch.Legacy.of.Monsters.S01E07.mp4?PHPSESSID=630020e98f873555c3fd1aefe204d8697fc533b2
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E08
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E08
 https://fv5-4.failiem.lv/Files.fm_2023-12-29_file_rvvpn9vwcx/Monarch.Legacy.of.Monsters.S01E08.mp4?PHPSESSID=41e610f39576806af53ba2ef4ab14ce8257f2dfc
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E09
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E09
 https://fv5-4.failiem.lv/Files.fm_2024-01-05_file_exajfr9cty/Monarch.Legacy.of.Monsters.S01E09.mp4?PHPSESSID=cb85f98e64318e08f0d1f25f350dce587cdce703
-#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" group-title="APPLE TV+", Monarch Legacy of Monsters S01E10
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="VIDEO" group-title="APPLE TV+", Monarch Legacy of Monsters S01E10
 https://fv5-4.failiem.lv/Files.fm_2024-01-15_file_g2vp45v2tb/Monarch.Legacy.of.Monsters.S01E10.mp4?PHPSESSID=61c71c8cd498c344f8b6d684d2000b7d3e2115a2
 
 
