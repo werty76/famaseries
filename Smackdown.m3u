@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Abril 26
+https://cld.pt/dl/download/582112a8-9373-4678-9ac5-48244ff821fa/WWE_Smackdown_April_26th_2024_HD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Abril 19
 https://cld.pt/dl/download/e2e05580-135a-404f-a21b-c5d7326444eb/WWE_Smackdown_April_19th_2024_HD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Abril 12
