@@ -1,15 +1,17 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E01
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E01
 https://cld.pt/dl/download/b8dbac1c-7714-4acc-a3ca-1fef37e115c3/Griselda%20S01E01.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E02
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E02
 https://cld.pt/dl/download/17a785a4-ce1d-436b-98e3-dc8562efe51f/Griselda%20S01E02.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E03
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E03
 https://cld.pt/dl/download/e74819b8-c817-440e-a16d-980ea052f21f/Griselda%20S01E03.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E04
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E04
 https://cld.pt/dl/download/5fa6bb12-7e14-4b85-a5cc-a3a642c01576/Griselda%20S01E04.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E05
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E05
 https://cld.pt/dl/download/1b224268-7450-4be1-be55-854c9ce75d43/Griselda%20S01E05.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO" group-title="NETFLIX", Griselda S01E06
+#EXTINF:-1 tvg-logo="https://bit.ly/3vOcfZ7" type="VIDEO", Griselda S01E06
 https://cld.pt/dl/download/b9796c13-1c01-4736-95d2-bec2dd49b971/Griselda%20S01E06.mp4
+
+
 
