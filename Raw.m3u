@@ -1,6 +1,8 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO" group-title="WWE", Raw Abril 22
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw Abril 22
 https://cld.pt/dl/download/fac4a0b9-3850-4ec0-902c-c650477106de/WWE_Raw_April_22nd_2024_HD.mp4
-#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO" group-title="WWE", Raw Abril 15
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw Abril 15
 https://cld.pt/dl/download/5d05a904-687b-4883-a440-851aac08263e/WWE_Raw_April_15th_2024_HD.mp4
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw Abril 29
+https://cld.pt/dl/download/d2f3d30b-12c9-4541-8de0-b7031d7b181c/WWE_Raw_April_29th_2024_SD.mp4
