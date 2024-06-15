@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Junho 14
+https://cld.pt/dl/download/68e02a65-81a6-4b10-848d-002e55c246d3/WWE_Smackdown_June_14th_2024_SD.mp4
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Junho 7
+https://cld.pt/dl/download/26c9b352-cecf-42a8-855e-2cd4c0661814/WWE_Smackdown_June_7th_2024_SD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Maio 31
 https://cld.pt/dl/download/28d686bf-a10a-4a2d-a61f-06078a7eaef3/WWE_Smackdown_May_31st_2024_SD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/kzBJL" type="VIDEO" group-title="WWE", Smackdown Maio 24
