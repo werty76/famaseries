@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw JULHO 8
+https://cld.pt/dl/download/cbeaa1d0-203e-4d69-a2f1-c99801b996eb/WWE_Raw_July_8th_2024_SD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw JULHO 1
 https://cld.pt/dl/download/63bd7dae-fb23-495e-b467-a0da3437344d/WWE_Raw_July_1st_2024_SD.mp4
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="VIDEO", Raw JUNHO 24
