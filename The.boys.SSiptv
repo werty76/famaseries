@@ -1,7 +1,10 @@
-#EXTINF:-1 tvg-logo="https://bit.ly/3PTIld3" type="playlist" group-title="PRIME VIDEO",
+#EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3PTIld3" type="playlist" group-title="PRIME VIDEO",
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3PTIld3" type="playlist" group-title="PRIME VIDEO",
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3PTIld3" type="playlist" group-title="PRIME VIDEO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iikrapejulhIvbNgUjj468mUE0I.jpg" type="playlist" group-title="PRIME VIDEO", The Boys S01
+https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys.S01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oFGMGn1ywvvYobxOcPKVytN3AQK.jpg" type="playlist" group-title="PRIME VIDEO", The Boys S02
+https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys.S02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg" type="playlist" group-title="PRIME VIDEO", The Boys S03
+https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys.S03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zIEycg0w9aT5lOOqcjJZruuVoe.jpg" type="playlist" group-title="PRIME VIDEO", The Boys S04
+https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys.S04
