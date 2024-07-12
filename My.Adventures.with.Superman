@@ -4,23 +4,23 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] [/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 
-[B][COLOR deepskyblue]Género:[/B][/COLOR] 
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]My Adventures with Superman S01[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/dn7dKQtubNknQ9uuWEn1eWMyXbv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/My.Adventures.with.Superman.S1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vstgoeNAyIhSErJ9EWSqh2pINUc.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2003
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção Adventura, Comédia, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Os novos repórteres Clark, Lois e Jimmy partem para descobrir quem é o Super-Homem. Enfrentarão perigos, extraterrestres, romance e a verdade!</info>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] [/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 
-[B][COLOR deepskyblue]Género:[/B][/COLOR] 
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]My Adventures with Superman S02[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/a3n4IhEVfNoz1dcCcDGAwDPlJNC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/My.Adventures.with.Superman.S2</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qeaq11J5si1nRuSfc74WHIFWDek.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção Adventura, Comédia, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Na 2ª temporada, os três melhores amigos enfrentam uma série de novas ameaças. Inimigos poderosos surgirão do passado alienígena de Clark, Amanda Waller mirará no Superman, Lois lutará com o futuro e Jimmy Olsen gastará uma quantia inacreditável de dinheiro. Krypton está chegando para nossos jovens heróis, e sua chegada testará sua força, lealdade e amor como nunca antes.</info>
 </channel>
 
 </channels>
