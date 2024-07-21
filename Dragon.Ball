@@ -1,0 +1,6 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" type="VIDEO", Dragon Ball 01
+https://cld.pt/dl/download/c0dda267-cc2c-40f0-a5e4-16088996bf66/Dragon.Ball%20-%20001.mp4?download=true
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" type="VIDEO", Dragon Ball 02
+https://cld.pt/dl/download/fabf11d9-f6bd-4809-b6ab-c89d1f722ddd/Dragon%20Ball%20-%20002.avi?download=true
