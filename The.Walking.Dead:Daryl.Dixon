@@ -1,0 +1,24 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, aventura, Drama, Ficção científica e fantasia 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR]Daryl dá à costa na França e luta para juntar as peças de como chegou lá e por quê. A série acompanha sua jornada por uma França quebrada, mas resiliente, enquanto ele espera encontrar um caminho de volta para casa. Enquanto ele faz a jornada, porém, as conexões que ele forma ao longo do caminho complicam seu plano final.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S02[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/892NfvB3E3Z5SQ53Z6OMEtETep4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/The.Walking.Dead%3ADaryl.Dixon.S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1JfDmPnFrk6qQbc9irAOyuWAtKm.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, aventura, Drama, Ficção científica e fantasia 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Daryl dá à costa na França e luta para juntar as peças de como chegou lá e por quê. A série acompanha sua jornada por uma França quebrada, mas resiliente, enquanto ele espera encontrar um caminho de volta para casa. Enquanto ele faz a jornada, porém, as conexões que ele forma ao longo do caminho complicam seu plano final.</info>
+</channel>
+
+</channels>
