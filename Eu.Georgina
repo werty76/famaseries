@@ -1,0 +1,35 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Eu, Georgina S01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/4fCuUZu</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Eu.Georgina.S01.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7LmTofaj0Jm7ZffxfnbEorpdwA3.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Reality
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Eu, Georgina S02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YJbWJT</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Eu.Georgina.S02.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3SfKp1aTkXdxl1jSsURjHycAHAO.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Reality
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Eu, Georgina S03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48FFLQ9</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Eu.Georgina.S03.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rQYGKBHdDu4NEooyFZlh1eAMmE4.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Reality
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+</channels>
