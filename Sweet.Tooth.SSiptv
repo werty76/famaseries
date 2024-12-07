@@ -1,0 +1,8 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3dsmn38a" type="playlist" group-title="NETFLIX", Sweet Tooth S01
+https://raw.githubusercontent.com/werty76/famaseries/main/Sweet.Tooth.S01
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5574xxav" type="playlist" group-title="NETFLIX", Sweet Tooth S02
+https://raw.githubusercontent.com/werty76/famaseries/main/Sweet.Tooth.S02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/55wvn2t4" type="playlist" group-title="NETFLIX", Sweet Tooth S03
+https://raw.githubusercontent.com/werty76/famaseries/main/Sweet.Tooth.S03
