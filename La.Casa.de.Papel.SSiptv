@@ -1,0 +1,12 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc5vjex3" type="playlist" group-title="NETFLIX", La Casa de Papel S01
+https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel.S01
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2neyvh9w" type="playlist" group-title="NETFLIX", La Casa de Papel S02
+https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel.S02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/6spfn37h" type="playlist" group-title="NETFLIX", La Casa de Papel S03
+https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel.S03
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3cxmtyu" type="playlist" group-title="NETFLIX", La Casa de Papel S04
+https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel.S04
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3n6pb634" type="playlist" group-title="NETFLIX", La Casa de Papel S05
+https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel.S05
