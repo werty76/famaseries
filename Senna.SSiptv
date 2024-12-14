@@ -1,12 +1,14 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO" group-title="NETFLIX", Senna S01E01
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E01
 https://cld.pt/dl/download/f1d563ae-a4db-4f02-b80a-6f6d2c1439fd/Senna%20S01E01.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO" group-title="NETFLIX", Senna S01E02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E02
 https://cld.pt/dl/download/9e1bf397-8d2b-4c14-9aaa-abba5c4fddf0/Senna%20S01E02.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO" group-title="NETFLIX", Senna S01E03
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E03
 https://cld.pt/dl/download/67261e04-1783-47ae-a5cb-d66998d55e8b/Senna%20S01E03.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO" group-title="NETFLIX", Senna S01E04
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E04
 https://cld.pt/dl/download/d1ebaa1f-1c56-4a43-81ed-c0bf54c026fa/Senna%20S01E04.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO" group-title="NETFLIX", Senna S01E05
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E05
 https://cld.pt/dl/download/8ab9ce55-11d5-4b16-b9f3-321780f9bbaf/Senna%20S01E05.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mcpk9rfa" type="VIDEO", Senna S01E06
+https://cld.pt/dl/download/4d7a9f7c-61cf-443c-93f6-d6e559d6a8b6/Senna%20S01E06.mp4
