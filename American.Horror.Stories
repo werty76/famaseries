@@ -1,0 +1,35 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]American Horror Stories S01[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/56swn456</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/American.Horror.Stories.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/r2ogqivZ9dwpU4ya7EKHA9kMcrL.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Mistério, Sci-Fi & Fantasy
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]American Horror Stories S02[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/4bsyr58p</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/American.Horror.Stories.S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vkELTbRMS0vtoYa6uafVvP8iPWu.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Mistério, Sci-Fi & Fantasy
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]American Horror Stories S03[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/2r7u4u96</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/American.Horror.Stories.S03</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7UHAPXi0Aj6jGI9ooyhRDBi1sUh.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Mistério, Sci-Fi & Fantasy
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+</channels>
