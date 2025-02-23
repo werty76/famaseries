@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher 1º Temporada[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher S01[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/1SwnhxBUaRxGKRmkLcTqnt4QcGg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S01</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg</fanart>
@@ -12,13 +12,23 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher 2º Temporada[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher S02[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S02</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg</fanart>
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime , Drama
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Baseado em "Bad Luck and Trouble", quando membros da antiga unidade militar de Reacher começam a aparecer mortos, Reacher tem apenas uma coisa em mente: vingança.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Reacher S03[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/3z2ntsxc</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S03</externallink>
+<fanart>https://image.tmdb.org/t/p/original/52Cg3g7mdekG0QsSlqz4bMBQDJI.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2025
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime , Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.</info>
 </channel>
 
 </channels>
